@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Выключить Mi Box</string>
+    <string name="accessibility_description">Открывает системное меню питания по нажатию кнопки в приложении.</string>
+    <string name="enable_accessibility">Для работы включите службу Mi Box Power в настройках специальных возможностей.</string>
+    <string name="open_settings">Открыть настройки</string>
+    <string name="power_button">ОТКРЫТЬ МЕНЮ ПИТАНИЯ</string>
+</resources>
